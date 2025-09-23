@@ -33,22 +33,22 @@ Key questions answered:
 
 ---
 ## Results
-- ** 1. Overall Performance**: 59.7% of orders arrived on time
-- ** 2. Shipment Mode x Warehouse **:
+- **1. Overall Performance**: 59.7% of orders arrived on time
+- **2. Shipment Mode x Warehouse**:
     - Flight slightly outperforms Ship/Road (~60% vs 59%).
     - Road shipments from Warehouses A, B, C have the lowest on-time rates (~57–          58%).
-- ** 3. Discount**:
+- **3. Discount**:
     - Low discounts (≤9%) → ~47% on-time.
     - 10–19% discounts → improve to ~65%.
     - 20%+ discounts → dataset shows 100% on-time (synthetic but indicates prioritization).
-- ** 4. Package Weight**:
+- **4. Package Weight**:
     - Light (Q1 ~1.4kg) → 68% on-time.
     - Medium (Q2 ~3kg) → best at 86% on-time.
     - Heavy (Q3–Q4 ≥4.5kg) → worst, only ~42% on-time.
-- ** 5. Customer Ratings**:
+- **5. Customer Ratings**:
     - Orders rated 3–5 stars → ~60–61% on-time.
     - Orders rated 1–2 stars → ~59% on-time.
-- ** 6. Customer care Calls**:
+- **6. Customer care Calls**:
     - 2–3 calls: late rate ~35–37%.
     - 6–7 calls: late rate ~48%.
 
