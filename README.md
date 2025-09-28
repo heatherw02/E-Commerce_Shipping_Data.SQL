@@ -60,6 +60,9 @@ Key questions answered:
 - Track customer service costs linked to late deliveries; reducing delays can cut     call volumes.
 
 ---
+## [Tableau](https://public.tableau.com/views/E-CommerceShippingReliabilityDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+
+---
 ## Next Steps (WIP)
 - Build Tableau dashboard for KPI monitoring.
 - Expand analysis to include predictive modeling (e.g., factors predicting late delivery).
